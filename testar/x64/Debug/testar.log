@@ -1,0 +1,7 @@
+﻿  Entity.cpp
+  Monster.cpp
+  Player.cpp
+  testar.cpp
+C:\Users\vicke\source\repos\testar\testar\testar.cpp(17,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  testar.vcxproj -> C:\Users\vicke\source\repos\testar\x64\Debug\testar.exe
